@@ -1,16 +1,16 @@
 # Lee Wang Jong
 I'm a 4th-year student at Tokyo International University.
-
-I have recently started learning web-development and programming.
-
-I have a goal to become a front-end developer. It has only been a little over a month, but I am loving the journey.
+I keep myself highly motivated; it's a great pleasure to be able to learn and apply everything that I learned into personal projects.
+Although I am new to the programming world, I challenge myself to constantly learn and apply my knowledge to grow as an aspiring front end developer.
 
 ## Work Experience:
 
-### HENNGE (2020)
-I work under the director of the Presidents Office Divison at an IT company in Shibuya, Tokyo called HENNGE.
-While learning about software development and cloud security (HENNGE's service), I assist the director with his tasks in organizing his 
-daily duties and schedules.
+### Tangerine Inc. (2021)
+Working with senior developers on a legacy product/service. My tasks are to help create new features based on UI designs given by clients. For example, a new setting's page that: 1) grabs previously set user-settings and 2) able to add/edit to a new, preferred setting.
+
+Although it is a challenge as it is my first time working with such a large code base as well as AngularJS, it is a great opportunity for me to learn: how to navigate around, work with a team, and learn bits and pieces of a new framework.
+
+I also help as a field support intern, assisting the team in the setting up the beacons as well as wifi RSSI tests.
 
 ### Startup Guide (2019-2020)
 I was the Project-Product manager for Startup Guide - Tokyo book and the most recent Startup Guide - Japan Regional book (Freelance)
@@ -39,13 +39,15 @@ I held many events over several universities across greater Tokyo to showcase ou
 * HTML
 * CSS 
 * JavaScript
+* Reactjs
 
 **General IT Skills**
 * MS Office
 * GDrive
 
 **Current project(s)**
-* Front-End Developer Career Path Bootcamp
+* Learning and using Redux for global state management
+* Css Preprocessors (SASS)
 
 
 Constantly learning as much as I can and enjoying every day.
