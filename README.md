@@ -47,7 +47,7 @@ I held many events over several universities across greater Tokyo to showcase ou
 
 **Current project(s)**
 * Learning and using Redux for global state management
-* Css Preprocessors (SASS)
+* Building a Netflix Clone : purpose is to understand and work my way around building a larger code base. 
 
 
 Constantly learning as much as I can and enjoying every day.
