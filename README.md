@@ -39,7 +39,8 @@ I held many events over several universities across greater Tokyo to showcase ou
 * HTML
 * CSS 
 * JavaScript
-* Reactjs
+* Reactjs (hooks, class components, etc)
+* Redux (react-redux, connect / redux hooks) 
 
 **General IT Skills**
 * MS Office
@@ -47,7 +48,7 @@ I held many events over several universities across greater Tokyo to showcase ou
 
 **Current project(s)**
 * Learning and using Redux for global state management
-* Building a Netflix Clone : purpose is to understand and work my way around building a larger code base. 
+* Building a Netflix Clone : purpose is to understand and work my way around building a larger code base, as well as build something I always wanted to build!
 
 
 Constantly learning as much as I can and enjoying every day.
